@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        // Четное или не четное
 
+        // Четное или не четное
         int i;
         for (i = 0; i <= 10; i++)
             if (i % 2 == 0) {
