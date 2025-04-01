@@ -126,7 +126,6 @@ public class Main {
         }
         System.out.println("Максимальное значение: " + max);
 
-
         /* Дано число n. Выведите таблицу умножения для n от 1 до 10 */
         int nt = 2;
         for (int k = 1; k <= 10; k++) {
